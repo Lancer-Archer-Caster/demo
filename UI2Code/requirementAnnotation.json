@@ -1,0 +1,108 @@
+[
+  {
+    "id": "page-index",
+    "title": "主页界面更新",
+    "desc": "更新为蓝紫SaaS风格主页",
+    "url": "",
+    "pageKey": "liveConsole",
+    "pageName": "直播控制台"
+  },
+  {
+    "id": "live-alert-inventory",
+    "title": "库存熔断报警",
+    "desc": "库存<10%时跑马灯提示准备切品",
+    "url": "",
+    "pageKey": "liveConsole",
+    "pageName": "直播控制台"
+  },
+  {
+    "id": "live-alert-push",
+    "title": "逼单时机提示",
+    "desc": "在线人数达峰值且订单流速持平时提示促单",
+    "url": "",
+    "pageKey": "liveConsole",
+    "pageName": "直播控制台"
+  },
+  {
+    "id": "live-price-advantage",
+    "title": "价格优势触发",
+    "desc": "京东价<竞品价时绿色大字闪烁提示",
+    "url": "",
+    "pageKey": "liveConsole",
+    "pageName": "直播控制台"
+  },
+  {
+    "id": "live-price-warning",
+    "title": "价格劣势预警",
+    "desc": "京东价>竞品价时黄色小字提示服务优势",
+    "url": "",
+    "pageKey": "liveConsole",
+    "pageName": "直播控制台"
+  },
+  {
+    "id": "live-prompt-past",
+    "title": "已讲节点折叠",
+    "desc": "已讲节点自动折叠为单行摘要可展开",
+    "url": "",
+    "pageKey": "liveConsole",
+    "pageName": "直播控制台"
+  },
+  {
+    "id": "live-prompt-current",
+    "title": "当前讲节点高亮",
+    "desc": "当前节点白色高亮并放大显示",
+    "url": "",
+    "pageKey": "liveConsole",
+    "pageName": "直播控制台"
+  },
+  {
+    "id": "live-prompt-future",
+    "title": "未讲节点缩小",
+    "desc": "未讲节点灰色文字轻微缩小",
+    "url": "",
+    "pageKey": "liveConsole",
+    "pageName": "直播控制台"
+  },
+  {
+    "id": "live-danmaku-rag",
+    "title": "高价值弹幕与知识库秒回",
+    "desc": "丢弃无意义弹幕，过滤高价值问题并显示蓝色AI标准答案",
+    "url": "",
+    "pageKey": "liveConsole",
+    "pageName": "直播控制台"
+  }
+  ,
+  {
+    "id": "sku-input",
+    "title": "SKU输入框",
+    "desc": "支持粘贴多行SKU文字",
+    "url": "",
+    "pageKey": "skuManage",
+    "pageName": "商品管理"
+  },
+  {
+    "id": "sku-import-btn",
+    "title": "Excel导入按钮",
+    "desc": "通过Excel导入商品信息",
+
+    "url": "",
+    "pageKey": "skuManage",
+    "pageName": "商品管理"
+  },
+  {
+    "id": "sku-generate-btn",
+    "title": "生成脚本按钮",
+    "desc": "根据SKU生成脚本",
+    "url": "",
+    "pageKey": "skuManage",
+    "pageName": "商品管理"
+  },
+  {
+    "id": "sku-thinking-process",
+    "title": "思考过程展示",
+    "desc": "点击生成脚本后展示AI思考分析的过程",
+    "url": "",
+    "pageKey": "skuManage",
+    "pageName": "商品管理"
+  }
+]
