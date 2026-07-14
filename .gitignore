@@ -13,8 +13,7 @@ tmp/
 **/.env
 !**/.env.example
 
-# Dependencies and build outputs
-**/node_modules/
+# Build outputs
 **/dist/
 **/target/
 
