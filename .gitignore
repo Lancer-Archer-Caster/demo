@@ -1,0 +1,23 @@
+# Local IDE and operating-system files
+.DS_Store
+.idea/
+.claude/
+*.iml
+
+# Runtime state and temporary validation artifacts
+.run/
+tmp/
+*.log
+
+# Local configuration and secrets
+**/.env
+!**/.env.example
+
+# Dependencies and build outputs
+**/node_modules/
+**/dist/
+**/target/
+
+# Local H2 databases
+server-demo/data/
+server-demo/**/data/
